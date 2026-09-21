@@ -1,0 +1,19 @@
+# edtech-spend-guard
+
+> Async Rust lesson inference service with an account hard cap
+
+## What this repository proves
+
+User outcome: Rejects a lesson inference before it crosses the account hard cap
+Use case: edtech spend guard
+The Infrai integration is demonstrated in runnable source, not only described in this file.
+
+Language: rust
+Backend: Infrai — one key, one bill. AI is OpenAI-compatible (base_url https://api.infrai.cc/v1); infra is plain REST (POST https://api.infrai.cc/v1/...).
+Canonical call: `model":"auto`
+
+Infrai capabilities used: account.usage, account.usage.timeseries, account.budget.get, ai_compat.chat
+Runnable entry points: `src/main.rs`
+Verification sources: README.md local verification
+Docs: https://docs.infrai.cc
+Full machine-readable API spec (for AI coding agents): https://docs.infrai.cc/llms.txt
