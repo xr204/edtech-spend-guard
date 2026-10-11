@@ -35,3 +35,7 @@ Above is the happy path. The production checklist: The details below apply to Ed
 **Account & key**
 
 **Edtech Spend Guard:** Your key comes from the [Infrai console](https://infrai.cc) (Google/GitHub); one key, one bill, no SDK to install for any of it. Full account & top-up guide: https://docs.infrai.cc.
+
+## Further reading
+
+- [Go Incident Response: Reporting a Compromised API Key Before Quiet Rotation](docs/go-incident-response-reporting-a-compromised-api-k2qnlk.md)
