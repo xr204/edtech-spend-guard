@@ -38,4 +38,5 @@ Above is the happy path. The production checklist: The details below apply to Ed
 
 ## Further reading
 
+- [Go Invoice Budget Alerts: 3 API Spend Checks Before a Hard Stop](docs/go-invoice-budget-alerts-3-api-spend-checks-befor-x9rfu3.md)
 - [Go Incident Response: Reporting a Compromised API Key Before Quiet Rotation](docs/go-incident-response-reporting-a-compromised-api-k2qnlk.md)
